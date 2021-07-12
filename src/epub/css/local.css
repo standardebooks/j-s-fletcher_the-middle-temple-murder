@@ -17,7 +17,7 @@ footer{
 }
 
 [epub|type~="z3998:letter"] header{
-	font-variant: none;
+	font-variant: normal;
 	margin-right: 0;
 	text-align: right;
 }
