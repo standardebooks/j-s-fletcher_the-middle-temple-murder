@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-12T17:06:26Z</dc:date>
+		<meta property="dcterms:modified">2021-07-12T17:06:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,13 +38,13 @@
 		<dc:description id="description">A murder in London’s Middle Temple uncovers a twenty year old conspiracy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Spargo, reporter extraordinaire for the &lt;i&gt;Watchman&lt;/i&gt;, stumbles over a murdered man in London’s Middle Temple Lane, and, based on a journalistic hunch, decides to investigate. As the circle of interest widens, strange connections start to emerge; connections that lead towards an unsuspected conspiracy of twenty years before.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Middle Temple Murder&lt;/i&gt; is one of the prolific &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;&lt;abbr&gt;J. S.&lt;/abbr&gt; Fletcher&lt;/a&gt;’s most popular works. It builds on his earlier short story “The Contents of the Coffin,” and was published in 1919 as one of three novels written by Fletcher that year. President Woodrow Wilson publicly praised the work, which gave Fletcher a publishing deal and acclaim in the &lt;abbr&gt;U.S.&lt;/abbr&gt;&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Middle Temple Murder&lt;/i&gt; is one of the prolific &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher&lt;/a&gt;’s most popular works. It builds on his earlier short story “The Contents of the Coffin,” and was published in 1919 as one of three novels he wrote that year. President Woodrow Wilson publicly praised the work, which helped Fletcher earn U.S. acclaim and eventually a publishing deal.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10373</dc:source>
 		<dc:source>https://archive.org/details/middletemplemur00fletgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">75057</meta>
+		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-middle-temple-murder</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
 		<meta property="file-as" refines="#author">Fletcher, J. S.</meta>
@@ -76,6 +76,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
