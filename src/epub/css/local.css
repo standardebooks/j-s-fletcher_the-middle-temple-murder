@@ -28,8 +28,8 @@ footer{
 
 #chapter-9 blockquote,
 #chapter-21 blockquote:nth-of-type(3){
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 #chapter-32 blockquote{
