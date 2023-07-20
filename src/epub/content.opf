@@ -33,6 +33,8 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A murder in London’s Middle Temple uncovers a twenty year old conspiracy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Spargo, reporter extraordinaire for the &lt;i&gt;Watchman&lt;/i&gt;, stumbles over a murdered man in London’s Middle Temple Lane, and, based on a journalistic hunch, decides to investigate. As the circle of interest widens, strange connections start to emerge; connections that lead towards an unsuspected conspiracy of twenty years before.&lt;/p&gt;
