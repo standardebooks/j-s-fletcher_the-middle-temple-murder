@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10373</dc:source>
 		<dc:source>https://archive.org/details/middletemplemur00fletgoog</dc:source>
-		<meta property="se:word-count">75058</meta>
+		<meta property="se:word-count">73093</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-middle-temple-murder</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
